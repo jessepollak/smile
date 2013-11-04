@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "smile",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Always use Amazon Smile (and donate 0.5% of your purchases to charity)",
+    "description": "The description of the application"
+  }
+}
